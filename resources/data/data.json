@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "name": "ino",
+    "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {"id": 1, "title": "Институт наук о Земле, 10-я линия В.О., 33/35 "},
+            "geometry": {"type": "Point", "coordinates": [30.272550, 59.942857]}
+        },
+        {
+            "type": "Feature",
+            "properties": {"id": 2, "title": "Институт наук о Земле, Средний проспект В.О., 43"},
+            "geometry": {"type": "Point", "coordinates": [30.274304, 59.942122]}
+        }, {
+            "type": "Feature",
+            "properties": {"id": 3, "title": "Институт наук о Земле, пер.Декабристов, 16, кафедра кристаллографии"},
+            "geometry": {"type": "Point", "coordinates": [30.248111, 59.953026]}
+        }
+    ]
+}

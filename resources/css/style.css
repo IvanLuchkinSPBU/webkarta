@@ -1,0 +1,23 @@
+body {
+    background: #ffffff;
+    color: #FF0000;
+}
+
+.title-main {
+    font-size: 2.5rem;
+    font-style: italic;
+}
+
+.subtitle-main {
+    font-size: 2.0rem;
+}
+
+.red-line {
+    text-indent: 2.5rem;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 400px;
+    max-height: 300px;
+}
